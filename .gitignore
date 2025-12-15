@@ -1,1 +1,3 @@
 *.bin
+copies/
+generate/*.txt
